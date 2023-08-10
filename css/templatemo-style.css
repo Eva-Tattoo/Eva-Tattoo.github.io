@@ -509,7 +509,7 @@ background: radial-gradient(circle, rgba(138, 4, 109, 0.13) 0%, rgba(197, 6, 6, 
 }
 .btn-6:hover{
   background: transparent;
-  color: #6200ff;
+  color: #f700ff;
   box-shadow: none;
 }
 .btn-6:hover:before {
