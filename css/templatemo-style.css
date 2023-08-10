@@ -457,7 +457,7 @@ a#logo {
 .custom-btn {
   width: 130px;
   height: 40px;
-  color: #ffffff;
+  color: #fafafa;
   border-radius: 5px;
   padding: 10px 25px;
   font-family: 'Lato', sans-serif;
@@ -492,8 +492,8 @@ background: radial-gradient(circle, rgba(138, 4, 109, 0.13) 0%, rgba(197, 6, 6, 
   height: 0%;
   width: 1px;
  box-shadow:
-   -1px -1px 20px 0px rgb(238, 238, 238),
-   -4px -4px 5px 0px rgb(255, 255, 255),
+   -1px -1px 20px 0px rgb(252, 0, 197),
+   -4px -4px 5px 0px rgb(252, 0, 197),
    7px 7px 20px 0px rgba(0,0,0,.4),
    4px 4px 5px 0px rgba(0,0,0,.3);
 }
@@ -525,8 +525,8 @@ background: radial-gradient(circle, rgba(138, 4, 109, 0.13) 0%, rgba(197, 6, 6, 
   position: absolute;
   content: "";
   box-shadow:
-   -1px -1px 20px 0px rgb(255, 0, 0),
-   -4px -4px 5px 0px rgb(255, 0, 0),
+   -1px -1px 20px 0px rgba(255,255,255,1),
+   -4px -4px 5px 0px rgba(255,255,255,1),
    7px 7px 20px 0px rgba(0,0,0,.4),
    4px 4px 5px 0px rgba(0,0,0,.3);
 }
